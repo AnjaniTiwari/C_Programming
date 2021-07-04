@@ -23,4 +23,5 @@ int main()
         }
         n=newNum;
     }
+    return 0;
 }
