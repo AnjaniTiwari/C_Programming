@@ -1,3 +1,5 @@
+#include<stdio.h>
+#include<string.h>
 void convert_digit(char *);
 int main()
 {
